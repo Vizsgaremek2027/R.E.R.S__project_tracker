@@ -22,7 +22,11 @@ Minden könyvtárban található egy md kiterjesztésű fájl ami vagy tájékoz
 │   └── TypeScript/
 ├── Github/
 │   ├── Branches/
-│   └── Commits/
+|   |        |── backend_branches/
+|   |        |── frontend_branches/
+│   ├── Commits/
+|   |        |── backend_commits/
+|   |        |── frontend_commits/
 ├── Tests/
 │   ├── Playwright/
 │   └── testing_sheets/
