@@ -28,8 +28,7 @@
 * "errReport, statusTracking, meterReading kártyák kidolgozása, javítások", 2026 Nov 15, SZB
 * "háttérkép hozzáadása", 2026 Nov 15, SZB
 * "login component sweet alert javítása", 2026 Nov 15, SZB
-
-
 * "képet mostmár tud csatolni a felhasználó.", 2026 Nov 19, LI
 * "TODO 5 sor hozzáadva", 2026 Nov 19, LI
 * "Mérőórák komponens hozzáadva", 2026 Nov 21, SZB
+* "Az admin az adminfelületet látja, hozzá lett adva a meterService, adminmeters komponens, lábléc igazítva", 2026 Nov 27, LI
