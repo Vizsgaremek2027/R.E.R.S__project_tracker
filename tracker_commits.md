@@ -9,7 +9,9 @@
 * "noted down the first backend commit and the first 6 frontend commits"     2026 Nov 5
 * "commit noting updates" 2026 Nov 22
 * "some backend commits added" 2026 Nov 27
-*
+* "tracker commit noted"    2026 Nov 27
+* "frontend commit added" 2026 Nov 27
+* "tracker commit noted"    2026 Nov 27
 *
 *
 *
